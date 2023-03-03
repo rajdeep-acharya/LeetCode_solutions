@@ -1,4 +1,6 @@
-class Solution {
+package 3-longest-substring-without-repeating-characters;
+
+public class 3-longest-substring-without-repeating-characters {
     public int lengthOfLongestSubstring(String s) {
         if(s.length()==1){
             return 1;
